@@ -1,2 +1,2 @@
-# alura
-Treinos, Testes e Diversos.
+# Cursos da Alura
+Treinos, Testes e Diversos
